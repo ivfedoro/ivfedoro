@@ -9,6 +9,7 @@
 ## Навыки 🧰
 - **Python:** `Pandas`, `Matplotlib`
 - **SQL**
+- **BPMN**
 - **Excel**
 - **Looker Studio, PowerBI**
 
